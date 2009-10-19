@@ -1,6 +1,6 @@
 = sinatra-erubis
 
-Description goes here.
+Using Erubis in Sinatra.
 
 == Note on Patches/Pull Requests
  
